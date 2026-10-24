@@ -1,7 +1,7 @@
 # OnlineEatsBot : robot de commande de restaurant
 
 ## 📌 Contexte
-Simulation d'une application de commande en ligne, où l'on commande un menu de restaurant en discutant avec un robot, comme avec un serveur.
+Simulation d'une application de commande en ligne, où l'on commande un menu de restaurant en discutant avec un robot, comme avec un humain.
 
 ## ⚙️ Fonctionnalités
 - **Commande par discussion** : le client choisit ses plats en écrivant au robot, qui comprend sa demande et lui répond.
